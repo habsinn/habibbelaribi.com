@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Habib Belaribi</title>
+    <title>Who is speaking?</title>
     <link>/</link>
-    <description>Recent content on Habib Belaribi</description>
+    <description>Recent content on Who is speaking?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
@@ -12,12 +12,39 @@
     
     
     <item>
-      <title>CV</title>
+      <title>Legal notice</title>
+      <link>/blog/rgpd_en/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/rgpd_en/</guid>
+      <description>This site is published by Habib Belaribi and uses Hugo.
+The contact form on the contact page allows me to receive, manage and answer general questions. Your information will not be used for any other purpose.
+The information on this form is free and based on consent. The latter is freely revocable.
+If you are under the age of 16, you must ensure that you have obtained prior consent from your parents (or a legal guardian) before providing us with your data.</description>
+    </item>
+    
+    <item>
+      <title>Mentions légales</title>
+      <link>/blog/rgpd_fr/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/rgpd_fr/</guid>
+      <description>Ce site est publié par Habib Belaribi et utilise Hugo.
+Le formulaire de contact de la page contact me permet de recevoir, gérer et répondre aux questions d’ordre général. Vos informations ne seront pas utilisé pour un autre usage.
+Le renseignement de ce formulaire est libre et basé sur le consentement. Ce dernier est librement révocable.
+Si vous êtes âgé de moins de 16 ans, vous devez vous assurer d’avoir requis le consentement préalable de vos parents (ou d’un responsable légal) avant de nous fournir vos données.</description>
+    </item>
+    
+    <item>
+      <title>Working with serenity with the p2p approach to producing together...&#34;</title>
       <link>/cv/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/cv/</guid>
-      <description>hello</description>
+      <description>In the age of the Internet, the development of an entrepreneurial activity that is willing to be meaningful, viable and oriented towards others can flourish with serenity through an approach that puts social communication and authentic conversations at the center of ones concerns.
+We then ask the following questions: &amp;ldquo;Why&amp;rdquo;, &amp;ldquo;For whom&amp;rdquo;, and finally &amp;ldquo;How&amp;rdquo;.
+ Download my CV (in pdf format)
+ My services, be them in the form of training, consulting, or co-production, take place with the formation of an ad hoc team -french-speaking or transnational- which turns its attention to you, generally in two stages, over collaboration periods that can vary from a few days to several months, or even years if the attention remains on both sides&amp;hellip;</description>
     </item>
     
   </channel>

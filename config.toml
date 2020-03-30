@@ -6,15 +6,17 @@ googleanalytics = ""
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
-[params]
+[params.favicon]
   # set below parameter to define a favicon
-     favicon = "favicon.ico"
+	favicon = "favicon.ico"
+	mastodon="mastodon.png"
+	stackoverflow="stackoverflow.png"
   # set to change date format
   # dateFormat = "2.1.2006"
 
 # Below parameters can be set to override default post settings
 [params.posts]
-     folderName = "post"
+     folderName = "/"
      pageSize = "2"
      featuredPost = true
      paginationPages = 2
@@ -23,9 +25,10 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 [languages]
 [languages.fr]
   languageName = "Français"
-  title = "FR"
+  title = "Qui parle?"
 [languages.en]
   languageName = "English"
+  title = "Who is speaking?"
 #[languages.es]
   #languageName = "Español"
   #title = "Massively - Versión Español"

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FR</title>
+    <title>Qui parle?</title>
     <link>/fr/</link>
-    <description>Recent content on FR</description>
+    <description>Recent content on Qui parle?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
@@ -12,12 +12,15 @@
     
     
     <item>
-      <title>CV</title>
-      <link>/fr/post.9/</link>
+      <title>&#34;Travailler sereinement avec une approche pair-à-pair du travail...&#34;</title>
+      <link>/fr/bonjour/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/fr/post.9/</guid>
-      <description>hello SSSSSSSSSSSS https://co-actions.coop/wp-content/uploads/2019/08/CV-Habib-Belaribi-2019.pdf</description>
+      <guid>/fr/bonjour/</guid>
+      <description>À l’ère des Internets, le développement d’une activité entrepreneuriale qui se veut porteuse de sens, viable, tournée vers l’autre, peut être abordée sereinement à travers une approche qui remet la communication sociale et l’échange authentique au centre de ses préoccupations.
+Nous posons alors les questions :« Pourquoi?»,« Pour qui?», et enfin «Comment?».
+ Téléchargez ici mon CV (au format pdf)
+ Mes interventions sous forme de formation, d&amp;rsquo;accompagnement, ou de co-production, se déroulent avec la mobilisation d&amp;rsquo;une équipe ad hoc -francophone ou transnationale- qui tourne son attention vers vous, généralement en deux temps, sur des durées pouvant varier de quelques jours à plusieurs mois, voire années si l&amp;rsquo;attention demeure de part et d&amp;rsquo;autre&amp;hellip;</description>
     </item>
     
   </channel>
