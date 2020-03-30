@@ -1,0 +1,9 @@
+contactformaction: 'post-action'
+
+address:
+- line: 'Aquilenet, Cest Le Bouquet'
+- line: '20 rue Tourat 33000 BORDEAUX'
+
+phone: '07 82 43 20 68'
+
+email: 'habib.belaribi@aquilenet.fr'
