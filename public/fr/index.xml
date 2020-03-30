@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FR</title>
+    <link>/fr/</link>
+    <description>Recent content on FR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CV</title>
+      <link>/fr/post.9/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/post.9/</guid>
+      <description>hello SSSSSSSSSSSS https://co-actions.coop/wp-content/uploads/2019/08/CV-Habib-Belaribi-2019.pdf</description>
+    </item>
+    
+  </channel>
+</rss>
