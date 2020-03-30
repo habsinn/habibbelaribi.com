@@ -2,16 +2,10 @@
 title = '"Travailler sereinement avec une approche pair-à-pair du travail..."'
 slug = ''
 image = ''
-date = "2020-03-30T00:00:00"
+date = "2020-03-30T00:01:00"
 description = ''
 disqus_identifier = ''
 +++
-
-
-
-<embed width="420" height="315"
-src="https://www.youtube.com/embed/HSW8TiLZduU">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSW8TiLZduU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 À l’ère des Internets, le développement d’une activité entrepreneuriale qui se veut porteuse de sens, viable, tournée vers  l’autre,  peut  être  abordée sereinement  à  travers  une  approche  qui  remet  la  communication  sociale et  l’échange authentique au centre de ses préoccupations.   
 Nous posons alors les questions :« Pourquoi?»,« Pour qui?», et enfin «Comment?».

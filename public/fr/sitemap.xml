@@ -3,13 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/fr/bonjour/</loc>
-    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+    <loc>/fr/hello/</loc>
+    <lastmod>2020-03-30T00:01:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/hello/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/hello/"
+                />
   </url>
   
   <url>
     <loc>/fr/</loc>
-    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-30T00:01:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

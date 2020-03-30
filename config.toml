@@ -16,19 +16,19 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 # Below parameters can be set to override default post settings
 [params.posts]
-     folderName = "/"
+     folderName = "/post"
      pageSize = "2"
      featuredPost = true
      paginationPages = 2
-     showFirstLast = false
+     showFirstLast = true
  
 [languages]
-[languages.fr]
-  languageName = "Français"
-  title = "Qui parle?"
 [languages.en]
   languageName = "English"
   title = "Who is speaking?"
+[languages.fr]
+  languageName = "Français"
+  title = "Qui parle?"
 #[languages.es]
   #languageName = "Español"
   #title = "Massively - Versión Español"

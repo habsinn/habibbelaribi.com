@@ -1,8 +1,8 @@
 +++
-title = 'Working with serenity with the p2p approach to producing together..."'
-slug = 'cv'
+title = 'Serenity at work with the p2p approach of producing together..."'
+slug = ''
 image = ''
-date = "2019-08-15T00:00:00"
+date = "2020-03-30T00:00:00"
 description = ''
 disqus_identifier = ''
 +++
