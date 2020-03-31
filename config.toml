@@ -15,11 +15,11 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   # dateFormat = "2.1.2006"
 
 # Below parameters can be set to override default post settings
-[params.posts]
+#[params.posts]
      folderName = "/post"
-     pageSize = "2"
+     pageSize = "0"
      featuredPost = true
-     paginationPages = 2
+     paginationPages = 0
      showFirstLast = true
  
 [languages]
