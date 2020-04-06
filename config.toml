@@ -6,6 +6,12 @@ googleanalytics = "UA-162245098-1"
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
+#Contact form
+# Voir /layouts/footer/index.html > form/action
+[params]
+	email= "habib.belaribi@aquilenet.fr"
+	
+
 [params.favicon]
   # set below parameter to define a favicon
 	favicon = "favicon.ico"
@@ -32,4 +38,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 #[languages.es]
   #languageName = "Español"
   #title = "Massively - Versión Español"
+
+
+	
 
