@@ -3,7 +3,7 @@
 <footer id="footer">
     {{ with $data.contactinfo.contactformaction }}
     <section>
-      <form method="post" action="//formsubmit.co/{{ with .Site.Params.email }}{{.}}{{ end }}">
+      <form method="post" action="//formsubmit.co/habib.belaribi@aquilenet.fr">
         <div class="fields">
           <div class="field">
             <label for="name">{{ i18n "CONTACT_FORM_FIELD_NAME" . }}</label>
@@ -53,31 +53,31 @@
             <h3>{{ i18n "CONTACT_SOCIAL" . }}</h3>
             <ul class="icons alt">
                 {{ with .twitter}}
-                <li><a href="{{ . }}" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+                <li><a href="{{ . }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
                 {{ end }}
                 {{ with .facebook}}
-                <li><a href="{{ . }}" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+                <li><a href="{{ . }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
                 {{ end }}
                 {{ with .instagram}}
-                <li><a href="{{ . }}" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+                <li><a href="{{ . }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
                 {{ end }}
                 {{ with .linkedin}}
-                <li><a href="{{ . }}" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                <li><a href="{{ . }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
                 {{ end }}
                 {{ with .github}}
-                <li><a href="{{ . }}" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+                <li><a href="{{ . }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
                 {{ end }}
                 {{ with .youtube}}
-                <li><a href="{{ . }}" class="icon alt fa-youtube"><span class="label">Youtube</span></a></li>
+                <li><a href="{{ . }}" class="icon alt fa-youtube" target="_blank"><span class="label">Youtube</span></a></li>
                 {{ end }}
                 {{ with .googleplus}}
-                <li><a href="{{ . }}" class="icon alt fa-google-plus"><span class="label">Google Plus</span></a></li>
+                <li><a href="{{ . }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google Plus</span></a></li>
                 {{ end }}
                 {{ with .lastfm}}
-                <li><a href="{{ . }}" class="icon alt fa-lastfm"><span class="label">Last.fm</span></a></li>
+                <li><a href="{{ . }}" class="icon alt fa-lastfm" target="_blank"><span class="label">Last.fm</span></a></li>
                 {{ end }}
                 {{ with .flickr}}
-                <li><a href="{{ . }}" class="icon alt fa-flickr"><span class="label">Flickr</span></a></li>
+                <li><a href="{{ . }}" class="icon alt fa-flickr"><span class="label" target="_blank">Flickr</span></a></li>
                 {{ end }}
             </ul>
         </section>

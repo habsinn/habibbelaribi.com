@@ -5,11 +5,6 @@ theme = "hugo-theme-massively"
 googleanalytics = "UA-162245098-1"
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
-
-#Contact form
-# Voir /layouts/footer/index.html > form/action
-[params]
-	email= "habib.belaribi@aquilenet.fr"
 	
 
 [params.favicon]
