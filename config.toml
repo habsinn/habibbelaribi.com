@@ -7,11 +7,9 @@ disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 	
 
-[params.favicon]
+#[params.favicon]
   # set below parameter to define a favicon
-	favicon = "favicon.ico"
-	mastodon="mastodon.png"
-	stackoverflow="stackoverflow.png"
+	#favicon = "favicon.ico"
   # set to change date format
   # dateFormat = "2.1.2006"
 
