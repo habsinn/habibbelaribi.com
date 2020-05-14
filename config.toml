@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 #[params.favicon]
   # set below parameter to define a favicon
-	#favicon = "favicon.ico"
+  #favicon = "favicon.ico"
   # set to change date format
   # dateFormat = "2.1.2006"
 
@@ -22,15 +22,15 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
      showFirstLast = true
  
 [languages]
-[languages.en]
-  languageName = "English"
-  title = "Who is speaking?"
 [languages.fr]
   languageName = "Français"
   title = "Qui parle?"
-#[languages.es]
-  #languageName = "Español"
-  #title = "Massively - Versión Español"
+[languages.en]
+  languageName = "English"
+  title = "Who is speaking?"
+[languages.es]
+  languageName = "Español"
+  title = "¿Quién le habla?"
 
 
 	
