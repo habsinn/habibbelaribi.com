@@ -1,0 +1,22 @@
+---
+label: standard
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: slug
+  label: slug
+- type: text
+  name: image
+  label: image
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: text
+  name: disqus_identifier
+  label: disqus_identifier
