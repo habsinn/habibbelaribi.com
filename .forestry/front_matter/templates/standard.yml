@@ -20,5 +20,3 @@ fields:
 - type: text
   name: disqus_identifier
   label: disqus_identifier
-pages:
-- content/blog/test-blog.md
